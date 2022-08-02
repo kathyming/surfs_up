@@ -11,5 +11,10 @@ Weather data for the months of June and December were analyazed with the followi
 
 ![dec_temps](https://user-images.githubusercontent.com/106352711/182456416-5dbc2261-aab0-4429-ae1f-630bf73f426a.png)
 ### Findings
-* 
+* The diffence in averate tempearature beetween June and December is very slight, less than 4 degrees.
+* December's low temperature, 56, was 8 degrees lower than June's lowest tempearture of 64.
+* June's high temperature, 85, was only 2 degrees higher than December's higest tempperature of 83.
 ## Summary
+Temperatures between June and December on the island of Oahu are very similar with very slight differences.  I would suggest the following two queries to further anlayaze the weather differences between June and December:
+* Average precipitation
+* Number of days with precipitation (does it rain regularly?)
